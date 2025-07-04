@@ -1,7 +1,7 @@
 import logo from './logo.jpg'
 import './App.css';
 
-export deafult function App() {
+export default function App() {
   return (
     <div className="App">
       <header className="App-header">
@@ -11,4 +11,3 @@ export deafult function App() {
   );
 }
 
-App;
