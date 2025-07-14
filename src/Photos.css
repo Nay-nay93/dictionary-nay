@@ -1,0 +1,10 @@
+.Photos img {
+    object-fit: cover;
+    max-height: 300px;
+    height: auto;
+    border-radius: 6px; }
+
+.Photos {
+    margin: 0 auto;
+   
+}
