@@ -1,3 +1,11 @@
 .Results h2 {
-    text-transform: capitalize;
+    text-transform: capitalize !important;
+}
+
+.Results .Phonetics {
+    color: #555;
+    font-style: italic;
+    margin-top: 2px;
+    opacity: 0.7;
+    font-size: 1.1rem; 
 }
